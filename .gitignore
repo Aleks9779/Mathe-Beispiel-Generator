@@ -1,0 +1,9 @@
+venv/ 
+*.pyc
+*.log
+config.ini
+__pycache__/
+.vscode/
+*.tex
+*.tikz
+# *.sqlite, *.db
